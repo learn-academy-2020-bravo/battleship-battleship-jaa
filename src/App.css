@@ -3,3 +3,12 @@
   height: 30px;
   border: 1px solid black;
 }
+
+#game-board{
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 330px;
+  margin: auto;
+}

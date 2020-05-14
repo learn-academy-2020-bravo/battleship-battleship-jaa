@@ -1,5 +1,11 @@
 # Battleship Stories
-
+//10x10 grid
+//create a count for torpedos
+//randomize location of battleships - stay in hidden (5 battleships to randomize that are one peg)
+//indicate location that was hit with torpedo - example being A1 if hit now turn to red - once hit you cant hit again
+// once all 5 are hit - WE WIN - if count is 5 no more tries
+//if you hit 25 and no hits you loose - and reveal where ships are located (conditional rendering?)
+//single player against computer
 ### Break It Down
 
 Read all the stories.
